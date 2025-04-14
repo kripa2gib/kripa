@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Kripa
-- 👀 I’m interested in Dance, Coding, Tech.
+- 👀 I’m interested in Coding,Tech etc.
 - 🌱 I’m currently learning HTML,CSS, Java, Python
 - 💞️ I’m looking to collaborate on fun projects!
 - 📫 How to reach me ...
